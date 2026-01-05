@@ -17,12 +17,13 @@ The program performs the following tasks:
 - C++ compiler (g++)
 - Linux / macOS / Windows (with g++ installed)
 
-##  How to Compile
+
+##  How to Compile and Run
 
 ```bash
-g++ main.cpp -o main
+g++ main.cpp -o main (compile)
+./main (Run)
 
-## Run
 
-./main
+
 
