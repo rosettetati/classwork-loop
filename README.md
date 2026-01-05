@@ -21,3 +21,8 @@ The program performs the following tasks:
 
 ```bash
 g++ main.cpp -o main
+
+## Run
+
+./main
+
